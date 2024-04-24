@@ -110,9 +110,4 @@
   </tr>
 </table>
 
-<p align=left>
-<img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=codemage66&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemage66&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
-</p>
-
 
